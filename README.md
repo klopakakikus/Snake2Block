@@ -1,2 +1,1 @@
-# Snake2Block
-2nd try \o/
+# Snake-vs-Block-3D
